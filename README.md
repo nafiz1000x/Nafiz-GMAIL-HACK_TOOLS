@@ -13,7 +13,7 @@
 
 ```
 git clone https://github.com/nafiz1000x/Nafiz-GMAIL-HACK_TOOLS.git
-cd NAFIZ-GMAIL-HACK_TOOLS
+cd Nafiz-GMAIL-HACK_TOOLS
 python Nafiz-gmail_hack.py
 ```
 
